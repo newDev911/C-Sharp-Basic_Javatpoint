@@ -1,0 +1,12 @@
+﻿
+The 'if Statement' is used to test the condition. There are various types of statements.
+
+	1. if statement
+	2. if-else statement
+	3. nested if statement
+	4. if-else-if ladded
+
+	SYNTAX:
+	if(condition){
+		// code
+	}
